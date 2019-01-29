@@ -58,7 +58,7 @@ kubesetup
 kubectl get all
 ```
 
-Variable ``KUBE_SERVER`` set the kubernates server. Default: ``https://kubernetes.default.svc.cluster.local``
+Variable ``KUBE_SERVER`` set the kubernetes server. Default: ``https://kubernetes.default.svc.cluster.local``
 
 ## /usr/local/bin/update_ecr_secret
 
